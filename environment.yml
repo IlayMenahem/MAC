@@ -23,5 +23,3 @@ dependencies:
     - Pillow
     - matplotlib
     - pandas
-    - gym
-    - imitation
